@@ -1,0 +1,21 @@
+{
+  "name": "pokelink_translations",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint --ext .js,.vue -f ./node_modules/eslint-friendly-formatter src test",
+    "lint:fix": "eslint --ext .js,.vue -f ./node_modules/eslint-friendly-formatter --fix src test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/pokelinkapp/pokelink_translations.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pokelinkapp/pokelink_translations/issues"
+  },
+  "homepage": "https://github.com/pokelinkapp/pokelink_translations#readme"
+}
